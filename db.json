@@ -3,6 +3,10 @@
         {
            "title": "Mens Care",
            "price": "500"
+        },
+        {
+            "title": "Womens Care",
+            "price": "700" 
         }
     ]
 }
