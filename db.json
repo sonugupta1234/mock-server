@@ -1,12 +1,25 @@
 {
-    "product":[
-        {
-           "title": "Mens Care",
-           "price": "500"
-        },
-        {
-            "title": "Womens Care",
-            "price": "700" 
-        }
-    ]
+  "dogs": [
+    {
+      "name": "Cherry",
+      "age": "1",
+      "place": "Vizag",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "name": "Chucho",
+      "age": "4",
+      "place": "Delhi",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "Tommgate",
+      "age": "3",
+      "place": "jsr",
+      "gender": "Female",
+      "id": 4
+    }
+  ]
 }
